@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Amherst, MA, USA"
-  employer         : '<a class="no-wrap" href="https://www.umass.edu" target="_blank">UMass Amherst</a>'
+  employer         : "UMass Amherst"
   uri              : # URL
   email            : "yuminyang@umass.edu" 
 
