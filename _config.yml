@@ -30,15 +30,15 @@ author:
   location         : "Amherst, MA, USA"
   employer         : '<a href="https://www.umass.edu" target="_blank" style="display:inline; white-space:nowrap;">UMass Amherst</a>'
   uri              : # URL
-  email            : "yuminyang@umass.edu" 
+  email            : '<a href="mailto:yuminyang@umass.edu">yuminyang@umass.edu</a>' 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=S-2VhyoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-7655-2644"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
